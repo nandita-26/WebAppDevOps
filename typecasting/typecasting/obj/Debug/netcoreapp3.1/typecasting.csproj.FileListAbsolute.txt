@@ -1,0 +1,14 @@
+C:\Users\2085503\source\repos\typecasting\typecasting\obj\Debug\netcoreapp3.1\typecasting.csproj.AssemblyReference.cache
+C:\Users\2085503\source\repos\typecasting\typecasting\obj\Debug\netcoreapp3.1\typecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085503\source\repos\typecasting\typecasting\obj\Debug\netcoreapp3.1\typecasting.AssemblyInfoInputs.cache
+C:\Users\2085503\source\repos\typecasting\typecasting\obj\Debug\netcoreapp3.1\typecasting.AssemblyInfo.cs
+C:\Users\2085503\source\repos\typecasting\typecasting\obj\Debug\netcoreapp3.1\typecasting.csproj.CoreCompileInputs.cache
+C:\Users\2085503\source\repos\typecasting\typecasting\bin\Debug\netcoreapp3.1\typecasting.exe
+C:\Users\2085503\source\repos\typecasting\typecasting\bin\Debug\netcoreapp3.1\typecasting.deps.json
+C:\Users\2085503\source\repos\typecasting\typecasting\bin\Debug\netcoreapp3.1\typecasting.runtimeconfig.json
+C:\Users\2085503\source\repos\typecasting\typecasting\bin\Debug\netcoreapp3.1\typecasting.runtimeconfig.dev.json
+C:\Users\2085503\source\repos\typecasting\typecasting\bin\Debug\netcoreapp3.1\typecasting.dll
+C:\Users\2085503\source\repos\typecasting\typecasting\bin\Debug\netcoreapp3.1\typecasting.pdb
+C:\Users\2085503\source\repos\typecasting\typecasting\obj\Debug\netcoreapp3.1\typecasting.dll
+C:\Users\2085503\source\repos\typecasting\typecasting\obj\Debug\netcoreapp3.1\typecasting.pdb
+C:\Users\2085503\source\repos\typecasting\typecasting\obj\Debug\netcoreapp3.1\typecasting.genruntimeconfig.cache

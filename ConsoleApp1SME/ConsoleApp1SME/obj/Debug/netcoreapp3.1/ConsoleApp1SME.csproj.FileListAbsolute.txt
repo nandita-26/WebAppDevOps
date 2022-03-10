@@ -1,0 +1,14 @@
+C:\Users\2085503\source\repos\ConsoleApp1SME\ConsoleApp1SME\obj\Debug\netcoreapp3.1\ConsoleApp1SME.csproj.AssemblyReference.cache
+C:\Users\2085503\source\repos\ConsoleApp1SME\ConsoleApp1SME\obj\Debug\netcoreapp3.1\ConsoleApp1SME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085503\source\repos\ConsoleApp1SME\ConsoleApp1SME\obj\Debug\netcoreapp3.1\ConsoleApp1SME.AssemblyInfoInputs.cache
+C:\Users\2085503\source\repos\ConsoleApp1SME\ConsoleApp1SME\obj\Debug\netcoreapp3.1\ConsoleApp1SME.AssemblyInfo.cs
+C:\Users\2085503\source\repos\ConsoleApp1SME\ConsoleApp1SME\obj\Debug\netcoreapp3.1\ConsoleApp1SME.csproj.CoreCompileInputs.cache
+C:\Users\2085503\source\repos\ConsoleApp1SME\ConsoleApp1SME\bin\Debug\netcoreapp3.1\ConsoleApp1SME.exe
+C:\Users\2085503\source\repos\ConsoleApp1SME\ConsoleApp1SME\bin\Debug\netcoreapp3.1\ConsoleApp1SME.deps.json
+C:\Users\2085503\source\repos\ConsoleApp1SME\ConsoleApp1SME\bin\Debug\netcoreapp3.1\ConsoleApp1SME.runtimeconfig.json
+C:\Users\2085503\source\repos\ConsoleApp1SME\ConsoleApp1SME\bin\Debug\netcoreapp3.1\ConsoleApp1SME.runtimeconfig.dev.json
+C:\Users\2085503\source\repos\ConsoleApp1SME\ConsoleApp1SME\bin\Debug\netcoreapp3.1\ConsoleApp1SME.dll
+C:\Users\2085503\source\repos\ConsoleApp1SME\ConsoleApp1SME\bin\Debug\netcoreapp3.1\ConsoleApp1SME.pdb
+C:\Users\2085503\source\repos\ConsoleApp1SME\ConsoleApp1SME\obj\Debug\netcoreapp3.1\ConsoleApp1SME.dll
+C:\Users\2085503\source\repos\ConsoleApp1SME\ConsoleApp1SME\obj\Debug\netcoreapp3.1\ConsoleApp1SME.pdb
+C:\Users\2085503\source\repos\ConsoleApp1SME\ConsoleApp1SME\obj\Debug\netcoreapp3.1\ConsoleApp1SME.genruntimeconfig.cache

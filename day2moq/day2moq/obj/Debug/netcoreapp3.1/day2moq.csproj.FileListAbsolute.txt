@@ -1,0 +1,10 @@
+C:\Users\2085503\source\repos\day2moq\day2moq\bin\Debug\netcoreapp3.1\day2moq.deps.json
+C:\Users\2085503\source\repos\day2moq\day2moq\bin\Debug\netcoreapp3.1\day2moq.dll
+C:\Users\2085503\source\repos\day2moq\day2moq\bin\Debug\netcoreapp3.1\day2moq.pdb
+C:\Users\2085503\source\repos\day2moq\day2moq\obj\Debug\netcoreapp3.1\day2moq.csproj.AssemblyReference.cache
+C:\Users\2085503\source\repos\day2moq\day2moq\obj\Debug\netcoreapp3.1\day2moq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085503\source\repos\day2moq\day2moq\obj\Debug\netcoreapp3.1\day2moq.AssemblyInfoInputs.cache
+C:\Users\2085503\source\repos\day2moq\day2moq\obj\Debug\netcoreapp3.1\day2moq.AssemblyInfo.cs
+C:\Users\2085503\source\repos\day2moq\day2moq\obj\Debug\netcoreapp3.1\day2moq.csproj.CoreCompileInputs.cache
+C:\Users\2085503\source\repos\day2moq\day2moq\obj\Debug\netcoreapp3.1\day2moq.dll
+C:\Users\2085503\source\repos\day2moq\day2moq\obj\Debug\netcoreapp3.1\day2moq.pdb

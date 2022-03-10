@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day2moq", "day2moq\day2moq.csproj", "{EA5E9BB2-2F86-4864-A5EC-747E9DB7468C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "customermoq", "customermoq\customermoq.csproj", "{55383FD4-4C40-494C-8C44-A67919BB00EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA5E9BB2-2F86-4864-A5EC-747E9DB7468C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA5E9BB2-2F86-4864-A5EC-747E9DB7468C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA5E9BB2-2F86-4864-A5EC-747E9DB7468C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA5E9BB2-2F86-4864-A5EC-747E9DB7468C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55383FD4-4C40-494C-8C44-A67919BB00EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55383FD4-4C40-494C-8C44-A67919BB00EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55383FD4-4C40-494C-8C44-A67919BB00EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55383FD4-4C40-494C-8C44-A67919BB00EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12F06BD0-2821-417A-8130-7F88F1912D8E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\2085503\source\repos\directoryExp\directoryExp\obj\Debug\netcoreapp3.1\directoryExp.csproj.AssemblyReference.cache
+C:\Users\2085503\source\repos\directoryExp\directoryExp\obj\Debug\netcoreapp3.1\directoryExp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2085503\source\repos\directoryExp\directoryExp\obj\Debug\netcoreapp3.1\directoryExp.AssemblyInfoInputs.cache
+C:\Users\2085503\source\repos\directoryExp\directoryExp\obj\Debug\netcoreapp3.1\directoryExp.AssemblyInfo.cs
+C:\Users\2085503\source\repos\directoryExp\directoryExp\obj\Debug\netcoreapp3.1\directoryExp.csproj.CoreCompileInputs.cache
